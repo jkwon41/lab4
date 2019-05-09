@@ -1,0 +1,93 @@
+body {
+	width: 70%;
+	margin: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	font-family: sans-serif;
+}
+
+.td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.td2 {
+	border-bottom: 1px solid white;
+	padding: 10px;
+}
+
+.blah {
+	font-size: 70px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.img1{
+	height: 55px;
+	width: 55px;
+}
+
+.blah1{
+	padding-top: 100px;
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	font-family: sans-serif;
+}
+
+.blah2 {
+	background-color: orange;
+	font-family: sans-serif;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.blah3{
+	width: 33%;
+	overflow: hidden;
+	float: left;
+	background-color: LemonChiffon;
+}
+
+.blah4{
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	font-size: 150%;
+	border-bottom: 1px solid lightgrey;
+}
+
+.tableside{
+	border-bottom: 1px solid lightgrey;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.tableside2{
+	border-bottom: 1px solid lightgrey;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.blah5{
+	width: 66%;
+	float: right;
+}
+
+.bachelor {
+	font-size: 300%;
+}
+
+.imgugh{
+	height: 300px;
+	width: 400px;
+	float: right;
+}
+.imgugh2{
+	height: 500px;
+	width: 700px;
+}
